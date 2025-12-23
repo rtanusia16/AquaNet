@@ -1,0 +1,9 @@
+{
+  "name": "Copy of AQUANET",
+  "description": "Smart water monitoring with real-time AI leak detection and conservation insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
